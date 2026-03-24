@@ -53,14 +53,16 @@ It demonstrates:
 ![Home](./screenshots/home.jpeg)
 
 ### ✅ Task Management
+### ✏️ Completed  Task
 
 ![Non-Editable Todo](./screenshots/editable.jpeg)
 
+### ✏️ Add  Task
 
 ![Editable Todo](./screenshots/non-editable.jpeg)
 
 
-### ✏️ Add / Edit Task
+### ✏️ Add  Task
 
 ![Add](./screenshots/add-todo.jpeg)
 
